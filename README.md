@@ -9,4 +9,4 @@ Visualizations on this interactive dashboard include:
 * The individual sample's metadata (i.e., demographic information such as ethnicity, age, gender, etc.)
 * A gauge chart to plot the weekly belly button washing frequency of the individual.
 
-All visualizations will update when a new sample is selected.
+All visualizations update when a new sample is selected.
