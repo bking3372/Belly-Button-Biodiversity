@@ -10,3 +10,6 @@ Visualizations on this interactive dashboard include:
 * A gauge chart to plot the weekly belly button washing frequency of the individual.
 
 All visualizations update when a new sample is selected.
+
+![SS1](https://github.com/bking3372/Belly-Button-Biodiversity/blob/master/images/BBD_SS1.PNG)
+![SS2](https://github.com/bking3372/Belly-Button-Biodiversity/blob/master/images/BBD_SS2.PNG)
