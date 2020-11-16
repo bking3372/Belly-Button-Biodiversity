@@ -12,4 +12,4 @@ Visualizations on this interactive dashboard include:
 All visualizations update when a new sample is selected.
 
 ![SS1](https://github.com/bking3372/Belly-Button-Biodiversity/blob/master/images/BBD_SS1.PNG)
-![SS2](https://github.com/bking3372/Belly-Button-Biodiversity/blob/master/images/BBD_SS2.PNG)
+![SS2](https://github.com/bking3372/Belly-Button-Biodiversity/blob/master/images/BBD_SS3.PNG)
