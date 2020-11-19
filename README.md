@@ -1,7 +1,7 @@
 # Belly Button Biodiversity: Interactive Visualizations with Plotly
 
 
-Objective:  Create an interactive dashboard to explore the Belly Button Biodiversity dataset and create visualizations with Plotly.
+### Objective:  Create an interactive dashboard to explore the Belly Button Biodiversity dataset and create visualizations with Plotly.
 
 Visualizations on this interactive dashboard include:  
 * A horizontal bar chart to display the top 10 OTUs found in the selected sample.
